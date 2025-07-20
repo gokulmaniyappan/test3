@@ -35,4 +35,4 @@ elif choice == '3':
 elif choice == '4':
     print("Result:", divide(a, b))
 else:
-    print("Wrong input")
+    print("Wrong input!!")
